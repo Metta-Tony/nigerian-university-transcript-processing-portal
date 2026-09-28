@@ -1,0 +1,5 @@
+{
+  "name": "Nigerian University Transcript Processing Portal",
+  "description": "Online portal for student transcript requests, Remita billing, NUC verification, tracking, and registrar processing for South-Eastern Nigerian universities.",
+  "requestFramePermissions": []
+}
