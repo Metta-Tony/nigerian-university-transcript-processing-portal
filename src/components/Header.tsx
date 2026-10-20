@@ -21,7 +21,7 @@ export const Header: React.FC<HeaderProps> = ({
           <div className="flex items-center gap-4">
             <span className="flex items-center gap-1 text-amber-400/90 font-medium">
               <span className="inline-block w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
-              UEN e-Transcript Portal (24/7 Automated Clearance)
+              Design and Implementation of a Web Based Student Transcript Processing System
             </span>
             <span className="hidden md:inline text-slate-500">|</span>
             <span className="hidden md:inline text-slate-400">National Universities Commission (NUC) Accredited • Remita Enabled</span>
